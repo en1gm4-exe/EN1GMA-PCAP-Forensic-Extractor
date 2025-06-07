@@ -91,7 +91,7 @@ PCAP/PCAPNG: Supports both pcap and pcapng formats.</a>
 - <a> **Filename Collisions:** Extracted files are named with a timestamp to reduce collisions, but if run rapidly, files may overwrite. You can change the naming scheme in the code if needed.</a> 
 - <a> **Windows Paths:** On Windows, avoid extremely long file paths. Use short directory names or run from a root directory if path-length errors occur.</a> 
 
-#Credits
+# Credits
 - <a> **Developer:** Developed by Uzzam Arif.</a>
 - <a> **Libraries:** Built with `PyQt5` and Python’s standard library.</a>
 - <a> **Tools:** Extraction logic leverages Wireshark Tshark for packet parsing.</a>
